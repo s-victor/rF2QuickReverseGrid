@@ -26,7 +26,7 @@ The plugin file `rFactor2SharedMemoryMapPlugin64.dll` should be placed in `rFact
 
 4. Run `rF2QuickReverseGrid.exe`.
 
-    *Important Note: rF2QuickReverseGrid requires `rFactor 2` in running, otherwise the APP will be auto-closed if user attempts to generate grid without game running.*
+    *Important Note: rF2QuickReverseGrid requires `rFactor 2` in running to generate grid batch file.*
 
 5. Type a preset name, then this preset will be loaded (or created if not exists). User can configure this preset by editing JSON file. See Configuration Guide for details.
 
